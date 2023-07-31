@@ -1,4 +1,4 @@
-# enLetter All
+# Letter All
 
 [来源—机器之心](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
 
